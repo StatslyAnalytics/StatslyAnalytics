@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StatslyAnalytics" alt="StatslyAnalytics" /></a> </p>
 
-- 👋 Hi, I’m @StatslyAnalytics
-- 👀 I’m interested in providing Data Science as a Service to the business
+- 👋 Hi, I’m **@StatslyAnalytics**
+- 👀 I’m interested in **providing Data Science as a Service to the business**
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Data Science as a Service Model
+- 💞️ I’m looking to collaborate on **Data Science as a Service Model**
 - 📫 How to reach me **Info@statslyanalytics.com** **statslyanalytics@gmail.com** **hr.statslyanalytics@gmail.com**
 
 
